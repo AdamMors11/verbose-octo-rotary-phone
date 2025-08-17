@@ -4,7 +4,7 @@ export default function SocialGrid() {
       name: "TikTok",
       description: "Quick videos & viral content",
       icon: "fab fa-tiktok",
-      url: "https://tiktok.com/@classical",
+      url: "https://www.tiktok.com/@MS4wLjABAAAAWSh1FavvKmE9s14kPcdbthN_7Tx6oFi2ncBJRLIfp6EAXfN3qEuvtN4QBOWMf3DW?is_from_webapp=1&sender_device=pc",
       buttonText: "Follow",
       gradient: "from-pink-500 to-rose-500"
     },
@@ -13,7 +13,7 @@ export default function SocialGrid() {
       name: "Discord",
       description: "Chat & hang out",
       icon: "fab fa-discord",
-      url: "https://discord.gg/classical",
+      url: "https://discord.gg/TqPvmYP6fB",
       buttonText: "Join",
       gradient: "bg-indigo-600"
     },
@@ -21,7 +21,7 @@ export default function SocialGrid() {
       name: "X",
       description: "Random thoughts & updates",
       icon: "fab fa-x-twitter",
-      url: "https://x.com/classical",
+      url: "https://x.com/scharmuta101",
       buttonText: "Follow",
       gradient: "bg-black border-gray-600"
     },
@@ -29,7 +29,7 @@ export default function SocialGrid() {
       name: "YouTube",
       description: "Longer form content",
       icon: "fab fa-youtube",
-      url: "https://youtube.com/@classical",
+      url: "https://www.youtube.com/@hourglassfr",
       buttonText: "Subscribe",
       gradient: "bg-red-600"
     },
