@@ -13,7 +13,7 @@ export default function HeroSection() {
       <div className={`text-center space-y-12 ${loaded ? 'page-load' : 'opacity-0'}`}>
         <div className="relative">
           <h1 className={`text-7xl md:text-9xl lg:text-[12rem] font-black gradient-text transition-all duration-1000 hover:scale-110 hover:rotate-1 ${loaded ? 'title-glow' : ''} relative z-10`}>
-            about me
+            raman du ayri
           </h1>
           <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent blur-xl opacity-30 animate-pulse pointer-events-none"></div>
         </div>
