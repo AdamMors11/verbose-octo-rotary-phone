@@ -19,7 +19,7 @@ export default function HeroSection() {
         </div>
         <div className="flex justify-center items-baseline space-x-3 mt-8">
           <p className="text-2xl md:text-3xl text-gray-200 font-light lowercase">
-            powertools comeback?
+            vergiss nicht lottoland
           </p>
           <div className="w-1.5 h-1.5 bg-gradient-to-r from-yellow-400 to-purple-500 rounded-full animate-pulse shadow-[0_0_10px_rgba(255,215,0,0.6)]"></div>
           <div className="w-1.5 h-1.5 bg-gradient-to-r from-purple-500 to-blue-400 rounded-full animate-pulse shadow-[0_0_10px_rgba(147,51,234,0.6)]" style={{animationDelay: '0.5s'}}></div>
